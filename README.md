@@ -2,7 +2,7 @@
 ## latihan3 lab2py
 
 ### Hasil Praktikum
-![img] (screenshot/ss1(1).png)
-![img] (screenshot/ss2.png)
-![img] (screenshot/hasil ss2.png)
-![img] (screenshot/ss3.png)
+![Gambar 1](screenshot/ss1(1).png)
+![Gambar 2](screenshot/ss2.png)
+![Gambar 3](screenshot/hasilss2.png)
+![Gambar 4](screenshot/ss3.png)
